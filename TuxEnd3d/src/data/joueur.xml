@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><profile xmlns="http://myGame/profile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/profile file:/home/p/perrink/S5/LangagesPourLeWeb/Tux/Tux/src/xml/joueur.xsd">
+    <name>Luke</name>
+    <avatar>1</avatar>
+    <birthday>1994-10-26</birthday>
+    <games>
+        <game date="2016-09-25">
+            <time>15</time>
+            <word level="4">araignee</word>
+        </game>
+        <game date="2016-09-25" found="85">
+            <time>5</time>
+            <word level="3">honneur</word>
+        </game>
+        <game date="2016-11-22" found="0">
+            <time>5</time>
+            <word level="2">bonjour</word>
+        </game>
+        <game date="2016-11-22" found="25">
+            <time>3</time>
+            <word level="1">mois</word>
+        </game>
+    <game date="2016-11-22"><time>24</time><word level="5">proselytisme</word></game><game date="2016-11-22"><time>18</time><word level="1">mois</word></game>
+    <game date="2016-11-24"><time>8</time><word level="1">mois</word></game></games>
+</profile>
